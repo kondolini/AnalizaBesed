@@ -6,3 +6,4 @@ Analizirali bomo nekaj tisoč besed, ki se pojavljajo v različnih besedilih.
 - Franc Šajtrga
 - Vesna Krompir
 - Miha Štrigula
+- Usman Nurmagomedsharipov
